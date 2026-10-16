@@ -117,7 +117,7 @@ The registration endpoint hashes passwords using BCrypt before storing them. The
 
 ## 8. Testing
 
-The API can be tested through Swagger. Test the available GET, POST, PUT, and DELETE endpoints, where supported. Also test registration and login using valid and invalid input.
+The API can be tested through Swagger. Test the available GET, POST, PUT, and DELETE endpoints, where supported. Also test registration and login using valid and invalid 
 
 ## 9. Version Control
 
