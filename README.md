@@ -29,7 +29,7 @@ The API uses Entity Framework Core to communicate with a Microsoft SQL Server da
 - Register user accounts.
 - Log in using email and password.
 - Hash passwords before storing them in the database.
-- Test API endpoints using Swagger.
+
 
 ## 4. Project Structure
 
