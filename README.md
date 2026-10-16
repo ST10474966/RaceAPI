@@ -119,7 +119,7 @@ The registration endpoint hashes passwords using BCrypt before storing them. The
 
 The API can be tested through Swagger. Test the available GET, POST, PUT, and DELETE endpoints, where supported. Also test registration and login using valid and invalid 
 
-## 9. Version Control
+ 9. Version Control
 
 GitHub is used to store the project source code and track development through meaningful commits. Each commit records a change to the project.
 
