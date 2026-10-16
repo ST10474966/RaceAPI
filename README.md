@@ -56,7 +56,7 @@ RaceAPI/
 │   ├── Route.cs
 │   ├── Enrolment.cs
 │   ├── UserAccount.cs
-│   └── Auth/
+│   └── Auth
 │       ├── LoginRequest.cs
 │       └── RegisterRequest.cs
 ├── Program.cs
