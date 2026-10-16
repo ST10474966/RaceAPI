@@ -123,7 +123,5 @@ The API can be tested through Swagger. Test the available GET, POST, PUT, and DE
 
 GitHub is used to store the project source code and track development through meaningful commits. Each commit records a change to the project.
 
-## 10. Conclusion
 
-RaceAPI provides a foundation for managing race events, participants, organisers, enrolments, routes, and results through a RESTful API. It uses ASP.NET Core, Entity Framework Core, and SQL Server to support data management.
 
