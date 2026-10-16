@@ -92,7 +92,7 @@ RaceAPI/
 9. Build and run the project.
 10. Open the Swagger URL displayed by Visual Studio to test the API.
 
-## 6. API Endpoints
+# 6. API Endpoints
 
 | Endpoint | Purpose |
 |---|---|
