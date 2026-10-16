@@ -61,7 +61,7 @@ RaceAPI/
 │       └── RegisterRequest.cs
 ├── Program.cs
 ├── appsettings.json
-└── RaceAPI.csproj
+└── 
 ```
 
 ## 5. Installation and Setup
