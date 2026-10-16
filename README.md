@@ -30,7 +30,7 @@ The API uses Entity Framework Core to communicate with a Microsoft SQL Server da
 
 
 
-## 4. Project Structure
+# 4. Project Structure
 
 ```text
 RaceAPI/
