@@ -17,7 +17,7 @@ The API uses Entity Framework Core to communicate with a Microsoft SQL Server da
 - Swagger / OpenAPI
 - Git and GitHub
 
-## 3. Main Features
+ 3. Main Features
 
 - Manage race categories.
 - Create, view, update, and delete race events.
