@@ -6,7 +6,7 @@ RaceAPI is an ASP.NET Core Web API developed to manage race events. The system a
 
 The API uses Entity Framework Core to communicate with a Microsoft SQL Server database. It also provides user registration and login functionality using BCrypt password hashing.
 
-## 2. Technologies Used
+# 2. Technologies Used
 
 - C#
 - ASP.NET Core Web API
