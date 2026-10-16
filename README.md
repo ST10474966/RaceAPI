@@ -26,7 +26,6 @@ The API uses Entity Framework Core to communicate with a Microsoft SQL Server da
 - Manage race routes.
 - Manage event enrolments.
 - Record and view race results.
-- Register user accounts.
 
 
 
