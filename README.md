@@ -28,7 +28,7 @@ The API uses Entity Framework Core to communicate with a Microsoft SQL Server da
 - Record and view race results.
 - Register user accounts.
 - Log in using email and password.
-- Hash passwords before storing them in the database.
+
 
 
 ## 4. Project Structure
