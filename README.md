@@ -83,7 +83,7 @@ RaceAPI/
 6. Select `RaceAPI` as the default project.
 7. Create the database migration:
 
-   `Add-Migration InitialCreate`
+   `Add-Migration InitialCreate
 
 8. Apply the migration:
 
