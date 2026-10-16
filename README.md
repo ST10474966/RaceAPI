@@ -1,6 +1,6 @@
 # RaceAPI – Race Event Management System
 
-## 1. Project Description
+# 1. Project Description
 
 RaceAPI is an ASP.NET Core Web API developed to manage race events. The system allows users to manage categories, events, organisers, participants, routes, enrolments, results, and user accounts.
 
