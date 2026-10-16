@@ -87,7 +87,7 @@ RaceAPI/
 
 8. Apply the migration:
 
-   `Update-Database`
+   `Update-Database
 
 9. Build and run the project.
 10. Open the Swagger URL displayed by Visual Studio to test the API.
